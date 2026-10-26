@@ -1,0 +1,67 @@
+TABLE 1: DPCC sampling 09.03.2026 (report DPCC/W/Y/2026/17-24)
+station,lat_long,BOD_mg_l,COD_mg_l,fecal_coliform_MPN_100ml,pH,ammonical_N_mg_l,phosphate_mg_l,DO_mg_l
+Palla,"28.8138023,77.2100181",2.0,10,3200,7.4,1.03,0.07,4
+Wazirabad,"28.7131310,77.2319304",4.0,18,4300,7.6,1.37,0.07,3.1
+ISBT Bridge,"28.6713533,77.2338207",44.0,134,160000,7.2,4.5,0.48,NIL
+ITO Bridge,"28.6284288,77.2534977",38.0,122,130000,6.9,4.12,0.39,NIL
+Nizamuddin Bridge,"28.5915608,77.2715342",36.0,118,120000,7.5,0.91,1.18,NIL
+Hindon Cut,"28.586049,77.300012",25.0,74,80000,7.1,0.73,0.03,NIL
+Okhla Barrage,"28.545636,77.311072",42.0,138,200000,7.8,4.25,0.18,NIL
+"Asgarpur (Kidwali, Haryana)","28.4665895,77.3928257",60.0,226,400000,7.7,5.06,0.91,NIL
+
+TABLE 2: DPCC sampling 01.05.2025 (report DPCC/W/Y/2025/09-16)
+station,lat_long,BOD_mg_l,COD_mg_l,fecal_coliform_MPN_100ml,pH,ammonical_N_mg_l,phosphate_mg_l,DO_mg_l
+Palla,"28.8138023,77.2100181",4.0,19,1700,8.4,0.32,0.2,9.8
+Wazirabad,"28.7131304,77.2319304",6.0,23,3300,7.7,0.76,0.27,6.8
+ISBT Bridge,"28.6713533,77.2338207",34.0,93,160000,7.3,5.22,2.65,NIL
+ITO Bridge,"28.6284288,77.2534977",64.0,171,920000,7.4,5.66,2.88,NIL
+Nizamuddin Bridge,"28.5915608,77.2715342",37.0,155,240000,6.9,5.75,2.59,NIL
+Okhla Barrage,(unclear in screenshot),23.0,64,330000,7.0,3.56,1.87,NIL
+Agra Canal at Okhla Barrage,"28.545414,77.311075",28.0,79,330000,7.1,4.42,2.32,NIL
+Asgarpur (after Shahdara & Tuglakabad drains),"28.4657003,77.33905231",38.0,128,2300000,7.1,5.43,3.12,NIL
+
+"TABLE 3: Major drains (DPCC Yamuna book, based on DPCC 2025 data)"
+drain,share_of_discharge_pct,share_of_BOD_load_pct
+Najafgarh,69.77,59.93
+Shahdara,16.12,27.48
+Barapulla,4.92,3.5
+Power House,4.16,3.52
+ISBT,1.47,1.57
+Sen Nursing Home,1.47,1.38
+Maharani Bagh,1.03,1.24
+Kailash Nagar,0.46,0.35
+Abul Fazal,0.24,0.49
+Sonia Vihar,0.23,0.23
+Jaitpur,0.19,0.17
+Shastri Park,0.18,0.13
+
+TABLE 4: Drains complying / not complying with 30 mg/l BOD (27 monitored; read from colour bars)
+month,compliant,non_compliant
+Nov22,2,23
+Dec22,0,23
+Jan23,2,21
+Feb23,0,19
+Mar23,0,18
+Apr23,0,20
+May23,0,18
+Jun23,1,17
+Jul23,2,16
+Aug23,2,21
+Sep23,2,17
+Oct23,0,18
+Nov23,1,17
+Dec23,3,15
+Jan24,1,18
+Feb24,0,19
+Mar24,1,15
+Apr24,0,18
+May24,0,13
+Jun24,0,16
+Jul24,1,16
+Aug24,1,18
+Sep24,0,20
+Oct24,0,16
+Nov24,0,17
+Dec24,0,17
+Jan25,0,17
+Feb25,0,16
