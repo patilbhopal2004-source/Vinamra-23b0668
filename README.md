@@ -14,10 +14,4 @@ Run: `pip install numpy matplotlib` then `python code/analysis.py` from the repo
 2. DPCC. Water Quality Status of River Yamuna, report of sampling dated 01.05.2025 (DPCC/W/Y/2025/09-16). https://dpcc.delhi.gov.in/sites/default/files/DPCC/analysis-report/d2146c3980414253b33afa98c24efb24.pdf
 3. Department of Environment, Govt. of NCT of Delhi (2025). Yamuna of NCT of Delhi: Water Quality Monitoring by DPCC (Yamuna book, April 2025). https://environment.delhi.gov.in/sites/default/files/environment/universal/v2.0_final_yamuna_book_april_2025_compressed_2.pdf
 
-## Status
-- Done: data compilation from the sources above; observed-profile and drain-contribution analysis.
-- Underway: absolute drain flows (MLD) and river flow at Wazirabad (only percentage shares found so far).
-- Not yet done: model code (Streeter-Phelps DO-BOD), calibration, intervention runs.
 
-## Notes
-Data were read manually from report tables and charts; the monthly drain-compliance table was read from colour bars and should be checked against the original chart.
